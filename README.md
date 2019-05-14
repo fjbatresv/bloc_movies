@@ -1,16 +1,5 @@
-# bloc_example
+# Bloc Movies
 
-A new Flutter project.
+This is a simple projecto for test the **Bloc Pattern** on **Flutter** apps development.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+In this case i am using the api from [The Movie Database](https://www.themoviedb.org). If you want to test the app please replace the string **<your_api_key>** from the file [movie_api_provider.dart](https://github.com/fjbatresv/bloc_movies/blob/master/lib/src/resources/movie_api_provider.dart#L8)
